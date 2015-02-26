@@ -1,35 +1,43 @@
-Как сдавать домашку
+РљР°Рє СЃРґР°РІР°С‚СЊ РґРѕРјР°С€РєСѓ
 ===================
 
-# 0. Зарегистрироваться в проверяющей системе
-[Регистрация](http://ejudge.bsu.ru/cgi-bin/new-register?contest_id=30&locale_id=1&action=204)
+# 0. Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ РІ РїСЂРѕРІРµСЂСЏСЋС‰РµР№ СЃРёСЃС‚РµРјРµ
+[Р РµРіРёСЃС‚СЂР°С†РёСЏ](http://ejudge.bsu.ru/cgi-bin/new-register?contest_id=30&locale_id=1&action=204)
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/reg1.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/reg2.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/reg3.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/reg4.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/reg5.png)
 
-# 1. Создать проект
+# 1. РЎРѕР·РґР°С‚СЊ РїСЂРѕРµРєС‚
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/hw1.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/hw2.png)
 
-# 2. Скачать шаблон
+# 2. РЎРєР°С‡Р°С‚СЊ С€Р°Р±Р»РѕРЅ
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/hw3.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/hw4.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/hw5.png)
 
-# 3. Послать в проверяющую систему
+# 3. РџРѕСЃР»Р°С‚СЊ РІ РїСЂРѕРІРµСЂСЏСЋС‰СѓСЋ СЃРёСЃС‚РµРјСѓ
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/send1.png)
+------------------------
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/send2.png)

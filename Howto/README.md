@@ -1,7 +1,7 @@
 Установка и настройка инструментов
 ==================================
 
-# Tools link
+[Как настраивать инструменты] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Tools)
 
-# HW link
+[Как сдавать домашку] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Homework)
 
