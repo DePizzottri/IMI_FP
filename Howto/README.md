@@ -1,7 +1,4 @@
-Установка и настройка инструментов
-==================================
+[РљР°Рє РЅР°СЃС‚СЂР°РёРІР°С‚СЊ РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Tools)
 
-[Как настраивать инструменты] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Tools)
-
-[Как сдавать домашку] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Homework)
+[РљР°Рє СЃРґР°РІР°С‚СЊ РґРѕРјР°С€РєСѓ] (https://github.com/DePizzottri/IMI_FP/tree/master/Howto/Homework)
 
