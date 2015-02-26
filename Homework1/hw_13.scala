@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Шаблон для Worksheet
 
 object WS extends Homework13 {
