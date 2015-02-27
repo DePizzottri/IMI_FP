@@ -33,3 +33,9 @@
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/send1.png)
 ![-]
 (https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/send2.png)
+
+# 4. Возможные проблемы
+![-]
+(https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/tr1.png)
+![-]
+(https://raw.githubusercontent.com/DePizzottri/IMI_FP/master/Howto/Homework/images/tr2.png)
